@@ -44,6 +44,16 @@ Resources for iOS Interview Preparation
 - [Understanding Xcode Build System](https://www.vadimbulavin.com/xcode-build-system/) - Vadim Bulavin
 
 ## System Design
+- [Cracking the Mobile System Design Interview (iOS & Android)](https://themobileinterview.com/cracking-the-mobile-system-design-interview/)
+- Mobile System Design Interviews by Alex Lementuev
+  - [Github Repo](https://github.com/weeeBox/mobile-system-design)
+  - [Part 1 - A Simple Framework For Mobile System Design Interviews](https://proandroiddev.com/a-simple-framework-for-mobile-system-design-interviews-89f6f4134b84)
+  - [Part 2 - Additional Topics For Mobile System Design Interviews](https://proandroiddev.com/additional-topic-for-mobile-system-design-interviews-4c581cd93f0a)
+  - [Part 3 - Mobile System Design Exercise: File Downloader Library](https://proandroiddev.com/mobile-system-design-exercise-file-downloader-library-ccb8ac0e5be4)
+  - [Part 4 - Mobile System Design Exercise: Caching Library](https://proandroiddev.com/mobile-system-design-exercise-caching-library-8b3b5f1433cd)
+  - [Part 5 - Mobile System Design Exercise: Image Library](https://proandroiddev.com/mobile-system-design-exercise-image-library-83999eb0ad3c)
+  - [Part 6 - Mobile System Design Exercise: Chat Application](https://proandroiddev.com/mobile-system-design-exercise-chat-application-12223a0c1ac)
+  - [Part 7 - Common Interview Mistakes](https://proandroiddev.com/common-interview-mistakes-dba0518bb6c0)
 - [How I would solve the Facebook iOS App Design Interview](https://www.davidseek.com/fb/)
 
 ## Reading
